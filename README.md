@@ -1,4 +1,3 @@
-# SQL-WorldPopulationAnalysis
 # PortfolioProjects---MySQL
 
 According to UN estimates, the World population reached 8 billion at the time when this project was created (November 2022). This marks the third time of a billion-person growth milestone. Previous instances occurred in 1999 (6 billion) and 2012 (7 billion). 
